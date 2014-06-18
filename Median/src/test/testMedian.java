@@ -11,7 +11,7 @@ import phase.FindMedian;
 import phase.GenerateDoubleList;
 
 public class testMedian {
-
+	//The test case for Median.
 	@Test
 	public void testGenerateDoubleList() {
 		int seed = 10;
